@@ -1,0 +1,8 @@
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\DemoDotNet.DataRepository.deps.json
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\DemoDotNet.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\DemoDotNet.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\DemoDotNet.DataRepository.csprojAssemblyReference.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\DemoDotNet.DataRepository.AssemblyInfoInputs.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\DemoDotNet.DataRepository.AssemblyInfo.cs
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\DemoDotNet.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\DemoDotNet.DataRepository.pdb

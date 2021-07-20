@@ -1,0 +1,81 @@
+<body class="login">
+  <div class="login_box">
+    <div class="login_inner">
+      <div class="logo" >
+        <img src="assets\Images\icon.ico" alt="cric_logo">
+      </div>
+     
+
+      <div class="login_form">
+        <!-- <div class="alert alert-danger alert-dismissible fade in" >
+          <a class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        
+        </div> -->
+        <div class="loader" *ngIf="ShowSpinner">
+        </div>
+
+        <div >
+          <h1>Login</h1>
+        </div>       
+        <form action="" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+          <div class="form-group">
+            <label >Email<span class="req">*</span></label>
+            <input type="text" formControlName="email"  tabindex="1"  class="form-control" >
+          </div>
+          <div class="form-group">
+            <label >Password<span class="req">*</span></label>
+            <input type="text" formControlName="password"  tabindex="1"  class="form-control" >
+            <!-- <span style="cursor: pointer;" class="glyphicon"
+              [ngClass]="password_type === 'text' ? 'glyphicon-eye-close': 'glyphicon-eye-open'"
+              (click)="changePasswordType()"></span> -->
+          </div>
+          
+          <div class="checkbox">
+            <label>
+              <input tabindex="3" type="checkbox" value="">
+              <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+              Remember Me
+            </label>
+            <a tabindex="5" style="text-decoration: none;"  class="f_pass" [routerLink]='["/login"]'>forgot password?</a>
+          </div>
+          <div class="submit_btn">
+            <button type="submit"  class="btn btn-default" tabindex="6" [routerLink]='["/Dashboard"]'>
+              <!-- <img 
+                src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />&nbsp; -->
+              Sign in
+            </button>
+            
+          </div>
+ <!--Social Media-->
+ <div class="socialmedia form-group" >
+  <button type="button"  (click)="socialSignIn('google')" class="btn-google form-group" >
+    <span class="fa fa-google "></span>Google</button>  
+  <button type="button"  (click)="socialSignIn('facebook')" class="btn-facebook form-group">
+    <span class="fa fa-facebook"></span>Facebook</button>
+
+
+</div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+  <script>
+
+  </script>
+  <style>
+    .form-group {
+      position: relative
+    }
+
+    .form-group input[type="password"] {
+      padding-right: 30px
+    }
+
+    .form-group .glyphicon {
+      right: 8px;
+      position: absolute;
+      top: 30px
+    }
+  </style>
+</body>

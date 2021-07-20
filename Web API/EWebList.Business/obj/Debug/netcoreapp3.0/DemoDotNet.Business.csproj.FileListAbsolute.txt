@@ -1,0 +1,13 @@
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.Business.deps.json
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.Business.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.Business.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.Common.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.Common.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\DemoDotNet.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.csprojAssemblyReference.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.AssemblyInfoInputs.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.AssemblyInfo.cs
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.csproj.CopyComplete
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\DemoDotNet.Business.pdb

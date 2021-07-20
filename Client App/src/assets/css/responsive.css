@@ -1,0 +1,215 @@
+
+
+@media only screen and (max-width:1450px){
+	.sp-lg{width: 100% !important;}
+	.mater_datatable{margin-bottom: 15px;}
+	.sp-lg .mater_datatable .table td:first-child:before{
+		top: 7px !important;
+	}
+	table.dataTable > tbody > tr.child ul.dtr-details{
+		width: 100%;
+	}
+	table.dataTable > tbody > tr.child ul.dtr-details > li{
+		text-align: left;
+	}
+}
+@media only screen and (min-width:1368px) {
+  .addOffensePrice {
+    margin-top: 25px !important;
+  }
+}
+@media only screen and (max-width:1300px) { 
+	.box-single h3{width: 100%;}
+	.box-single a{float: left;}
+	
+
+}
+
+@media only screen and (max-width:991px){ 
+	.elements_main .content .col-md-6:last-child{margin-top: 30px;}
+	.default_modal .modal-dialog {width: auto;}
+	.elements_main .content .panel_main .col-md-6:last-child{margin-top: 0px !important;}
+	.box-single h3{font-size: 14px;  width: 100%;}
+	.box-single a{float: left;}
+	.box-single .box-number{ font-size: 40px; }
+	.box-single{padding: 20px; min-height: 125px;}
+	.tabel-group .mater_datatable {margin-bottom: 15px;}
+	.task_list .task_inner{overflow: auto;}
+	.task_detail_box .task_box{margin-bottom: 20px;}
+	.task_list .task_inner .default-form .form-group .select-wrapper{width: 115px;}
+	.task_list .task_inner .default-form button{font-size: 12px;}
+	.task_list .task_inner .default-form textarea{width: 200px;}
+	.task_inner .default-form .checkbox label{width: 150px;}
+	.Document_up .form-group button{font-size: 14px;}
+	.Document_up .form-group input[type="text"]{width: 235px;}
+  .add_user_emp {
+    width: 50%;
+  }
+  .box-main-title {
+    float: left !important;
+    width: 100% !important;
+  }
+
+  .create_task .w_20 {
+    width: calc(50% - 10px) !important;
+    margin-right: 10px;
+    margin-bottom: 15px !important;
+  }
+
+    .create_task .w_20:nth-child(2n) {
+      margin-right: 0px;
+    }
+
+    .create_task .w_20 .select-wrapper {
+      margin-left: 0px !important;
+    }
+
+  .intake_box li {
+    width: calc(50% - 10px);
+  }
+
+    .intake_box li:nth-child(3n) {
+      margin-right: 0px
+    }
+
+    .intake_box li:nth-child(1n) {
+      margin-right: 10px !important;
+    }
+  .add-city-col{width:50% !important;}
+
+  /*27-3-2019 css start*/
+  .cases_right {width: calc(75% - 30px);}
+  .cases_left{width:25%;}
+}   
+
+@media only screen and (max-width:767px){   
+	.login_inner{padding: 20px;}
+	.login_inner .logo{margin-top: 0;}
+	.login_inner .logo img{width: 150px;}
+	.login_form{width: 100%;margin: 25px auto;padding: 20px;}
+	.main-header .sidebar-toggle{background-color: #F2F3F6;padding: 15px;}
+	.navbar-custom-menu > .navbar-nav > li > .dropdown-menu{right: 14px;}
+	.default_modal .modal-dialog .modal-body .default-form button {position: relative;bottom: 0;float: right;right: 0;}
+	.default_modal .modal-dialog .modal-body .default-form {min-height: auto;}
+	.inline_form .form_inline .form-group{width: 100% !important;}
+	.task_list{margin-top: 10px;}
+	.Document_up .form-group, .Document_up .form-group input[type="text"], .Document_up .status_select .form-group .select-wrapper{width: 100%;}
+	#paymentModal .modal-dialog{width: auto !important;}
+  .user_hr .add_user_half {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .user_hr .add_user_full .add_user_title {
+    width: 50%;
+  }
+
+  .add_user_emp {
+    width: 50%;
+  }
+  .intake_box li {
+    width: 100% !important;
+    margin: 0px !important;
+  }
+
+  .intake_add_matter_btn {
+    margin-bottom: 15px !important;
+  }
+  .default_modal .modal-dialog {
+    width: 96% !important;
+  }
+
+  .quick_form_inner .detail-item .form-group {
+    background-color: transparent !important;
+    padding: 0px !important;
+  }
+
+    .quick_form_inner .detail-item .form-group .detail-label {
+      width: 100% !important;
+    }
+
+    .quick_form_inner .detail-item .form-group .detail-text {
+      width: 100% !important;
+      background-color: #f2f3f6 !important;
+      padding: 10px !important;
+    }
+
+  .quick_form_inner {
+    padding: 10px !important;
+  }
+
+  /*27-3-2019 css start*/ 
+  .cases_right{width:100%;margin-top:20px;}
+  .cases_left{width:100%;}
+}
+
+@media only screen and (max-width:639px){   
+	.login_form h1{font-size: 22px;}	
+	.main-header .logo .logo-lg {text-align: center;}
+	.col-xs-sp{width: 100%; margin-bottom: 15px;}
+	.box-group .row{margin-bottom: 0px;}
+	.task_list .task_inner .default-form textarea {width: 160px;}
+	.task_list .create_task .form-group{width: 50%;margin-bottom: 15px;}
+  .add-city-col {width: 100% !important;}
+
+
+  .intake_formgroup .default-form{width:100% !important;margin-right:0px;margin-bottom:15px;}
+  .intake_formgroup .intake_Select_wrapper{width:100% !important;}
+    .intake_formgroup .intake_Select_wrapper:first-child{width:100% !important;margin-bottom:15px;}
+  .matterDate{width:100%;margin-bottom:15px;}
+  .courtdaterange{margin-bottom:0px;}
+
+
+}
+
+@media only screen and (max-width:479px){  
+	.login_form .btn{font-size: 14px;padding: 9px;}	  
+	.forgot_pwd p{font-size: 12px;line-height: 18px;padding-top: 5px;}
+	.default_modal .modal-body{padding: 15px 5px;}
+	.default_modal .modal-dialog .modal-body .default-form .form-group label {display: block;width: 100%;}
+	.default_modal .modal-dialog .modal-body .default-form button{float: left;margin-bottom: 15px;}
+	.task_list{padding: 20px;}
+	.task_detail_box .task_box h3, .task_list .task_inner h3{font-size: 18px;}
+	.task_detail_box .task_box .task_detail_inner h4{font-size: 14px;}
+	.task_detail_box .task_box .task_detail_inner ul li label, .task_detail_box .task_box .task_detail_inner ul li span{width: 100%;}
+	.task_list .create_task .form-group{width: 100%;}
+	.create_task .form-group .add_btn{margin-top: 0;}
+	.Document_up .form-group button{width: 100%;margin-bottom: 8px;}
+	.Document_up .form-group{text-align: center;}
+	.Document_up .status_select .form-group{text-align: left;}
+	.Document_up .btn_grp button{width: 100%;margin: 0 0 8px 0;
+	}
+  .default_modal .modal-dialog {
+    width: 94% !important;
+  }
+
+  #editIntakeModal .select-dropdown .offenseselect {
+    width: 100% !important;
+  }
+
+  #editIntakeModal .modal-dialog .modal-body .default-form .radio-group label {
+    width: 100% !important;
+    margin-bottom: 10px;
+  }
+
+  .create_task .w_20 {
+    width: 100% !important;
+    margin-right: 0px !important;
+  }
+  .add_user_button{width:113px;}
+  .add_user_button button{width:113px;}
+
+  /*27-3-2019 css start*/ 
+  .add_user_emergency h2{font-size:22px;margin:6px 0px;}
+
+
+  /*12-4-2019 css start*/
+  .intake_docket_table.collapsed > tbody > tr.child span.dtr-title{min-width:130px;}
+
+}
+@media only screen and (max-width:359px){
+	.login_form p a {display: block;}
+	.login_form label, .login_form .f_pass{font-size: 12px;}
+	.login_form h1{font-size: 18px;} 
+	.navbar-custom-menu > .navbar-nav > li > .dropdown-menu{width: 91%;}  
+}

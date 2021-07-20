@@ -1,0 +1,16 @@
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.deps.json
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.csprojAssemblyReference.cache
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.AssemblyInfoInputs.cache
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.AssemblyInfo.cs
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.deps.json
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.csprojAssemblyReference.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.AssemblyInfoInputs.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.AssemblyInfo.cs
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.DataRepository\obj\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb

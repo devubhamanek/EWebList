@@ -1,0 +1,11 @@
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\bin\Release\netcoreapp3.0\DemoDotNet.Common.deps.json
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\bin\Release\netcoreapp3.0\DemoDotNet.Common.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\bin\Release\netcoreapp3.0\DemoDotNet.Common.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\bin\Release\netcoreapp3.0\DemoDotNet.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\bin\Release\netcoreapp3.0\DemoDotNet.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.csprojAssemblyReference.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.AssemblyInfoInputs.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.AssemblyInfo.cs
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.csproj.CopyComplete
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Common\obj\Release\netcoreapp3.0\DemoDotNet.Common.pdb

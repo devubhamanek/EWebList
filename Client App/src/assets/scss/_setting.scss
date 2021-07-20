@@ -1,0 +1,56 @@
+
+/** Color sass **/
+$primary_color: #011a27;  // Sidebar background, button background, Grid view header,  
+$secondary_color: #ec1b35; // Link color, sidebar menu hover and active, notification badge background, button hover background
+$third_color:#ffffff; // Button color, Grid view header text color, 
+$default_color:#3e3e3e; // Title color, grid view text
+$dark_gray_color:#bbb;
+$light_gray_color:#e2e2e2;
+$black:#000;
+
+$table_row_dark:#f2f2f4;
+
+$chat_sent:#bdfbbd;  //sent message background color
+$chat_received:#fff; //Receive message background color
+$chat_date: #d1eefd;  // chat date background
+
+$sms_color:#b3babd;
+
+$online_status: #23d823;
+$offline_status: #ff0000;
+
+$required: #ff0000;
+
+$sidemenu_color: #072738; // sidebar bottom border color
+/** font sass **/
+$primary_font:'roboto';
+
+/** Font weights **/
+$light: 300;
+$regular: 400;
+$medium:500;
+$bold: 700;
+
+/** Font Size **/
+$title:24px;
+$paragraph:14px;
+$label:16px;
+
+
+/** Mixins **/
+@mixin button (){
+	font-size: 20px;
+	color: $third_color;
+	background: $primary_color;
+	font-weight: $light;
+	border-radius: 0;
+	&:hover{
+		background: $secondary_color;
+		color: $third_color;
+	}
+	&:focus{
+		color:$third_color;
+	}
+}
+
+

@@ -1,0 +1,42 @@
+<header class="main-header">
+  <a href="javascript:void(0)" class="logo">  
+    <span class="logo-lg custmore_logo" >
+      <img src="assets\Images\logo_with_text.png" />
+    </span>
+  </a>
+  <nav class="navbar navbar-static-top" role="navigation">
+    <a href="javascript:void(0)" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+      <span class="toggle_icon"></span>
+    </a>
+    <div class="navbar-custom-menu" >
+      <ul class="nav navbar-nav setting_menu_cover"> 
+        <li class="dropdown user user-menu">
+          <a class="dropdown-toggle" data-toggle="dropdown" *ngIf="currentUser.firstName != null">
+            <!-- <img src="assets/images/user.jpg" class="user-image" alt="User Image" /> -->
+            <span class="hidden-xs">{{currentUser.firstName}} {{currentUser.lastName}}</span>
+            <i class="fa fa-caret-down"></i>
+          </a>
+           <a class="dropdown-toggle" data-toggle="dropdown" *ngIf="currentUser.firstName == undefined">
+            <!-- <img src="assets/images/user.jpg" class="user-image" alt="User Image" /> -->
+            <span class="hidden-xs">Hardik Panchal</span>
+            <i class="fa fa-caret-down"></i>
+          </a>
+          <ul class="dropdown-menu">           
+            <li>
+              <a  href="javascript:void(0)">
+                My Profile
+              </a>
+            </li>           
+            <li>
+              <a (click)="logout()">
+                Logout
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+ 

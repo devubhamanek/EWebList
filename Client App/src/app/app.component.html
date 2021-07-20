@@ -1,0 +1,23 @@
+
+<div class="wrapper">
+    <div class="alert-msg">
+      
+    </div>
+    <div *ngIf="page">
+        <app-header class="divHeader"></app-header>
+        
+    </div>
+    <div  *ngIf="page" class="divSidebar">
+        <app-sidebar></app-sidebar>
+    </div>
+   
+    <div >
+        <router-outlet></router-outlet>
+
+        <!-- <div *ngIf="page" class="footerArea">
+            <app-footer></app-footer>
+        </div> -->
+    </div>
+
+   
+</div>

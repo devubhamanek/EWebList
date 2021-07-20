@@ -1,0 +1,26 @@
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.deps.json
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.pdb
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Common.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Common.pdb
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.csprojAssemblyReference.cache
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.AssemblyInfoInputs.cache
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.AssemblyInfo.cs
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.csproj.CopyComplete
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.dll
+D:\Hardik Panchal\mttracker\mttracker\TimeTrackerMt_Api\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.deps.json
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Business.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Common.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.Common.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\bin\Debug\netcoreapp3.0\TimeTrackerMt.DataRepository.pdb
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.csprojAssemblyReference.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.AssemblyInfoInputs.cache
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.AssemblyInfo.cs
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.csproj.CopyComplete
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.dll
+D:\Hardik Panchal\ManekTech\DemoDotNet Project\API\EWebList.Business\obj\Debug\netcoreapp3.0\TimeTrackerMt.Business.pdb

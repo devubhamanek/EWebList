@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.API\\DemoDotNet.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.API\\DemoDotNet.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.API\\DemoDotNet.API.csproj",
+        "projectName": "DemoDotNet.API",
+        "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.API\\DemoDotNet.API.csproj",
+        "packagesPath": "C:\\Users\\MTPC-137\\.nuget\\packages\\",
+        "outputPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.API\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MTPC-137\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\DemoDotNet.Business.csproj": {
+                "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\DemoDotNet.Business.csproj"
+              },
+              "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj": {
+                "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\DemoDotNet.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\DemoDotNet.Business.csproj",
+        "projectName": "DemoDotNet.Business",
+        "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\DemoDotNet.Business.csproj",
+        "packagesPath": "C:\\Users\\MTPC-137\\.nuget\\packages\\",
+        "outputPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MTPC-137\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\DemoDotNet.Common.csproj": {
+                "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\DemoDotNet.Common.csproj"
+              },
+              "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj": {
+                "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\DemoDotNet.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\DemoDotNet.Common.csproj",
+        "projectName": "DemoDotNet.Common",
+        "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\DemoDotNet.Common.csproj",
+        "packagesPath": "C:\\Users\\MTPC-137\\.nuget\\packages\\",
+        "outputPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MTPC-137\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj": {
+                "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj",
+        "projectName": "DemoDotNet.DataRepository",
+        "projectPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\DemoDotNet.DataRepository.csproj",
+        "packagesPath": "C:\\Users\\MTPC-137\\.nuget\\packages\\",
+        "outputPath": "D:\\Hardik Panchal\\ManekTech\\DemoDotNet Project\\API\\EWebList.DataRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MTPC-137\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

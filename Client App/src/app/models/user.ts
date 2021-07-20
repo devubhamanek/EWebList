@@ -1,0 +1,58 @@
+export class User {  
+    authToken:any;
+    aboutMe:any; 
+    address1: any;
+    address2: any;
+    longitude : any;
+    latitude : any;
+    fullName:any;
+    tagNumber:any;
+    age:any;
+    bodyType: any;
+    cityName: any;
+    companyDetails: any;
+    countryName: any;
+    createdBy: any;
+    createdDate: any;
+    doDrink: any;
+    doSmoke: any;
+    dob: any;
+    email: any;
+    ethnicity: any;
+    eyeColor: any;
+    fax: any;
+    firstName: any;
+    gender: any;
+   genderUser:any;
+    hairColor: any;
+    headLine: any;
+    height: any;
+    intrestedTo: any;
+    lastName: any;
+    maritalStatusID: any;
+  
+    mobile: any;
+    modifiedBy: any;
+    modifiedDate: any;
+    modifyBy: any;
+    modifyDate:any;
+    password: any;
+    confirm_password:any;
+    personalDetails: any;
+    photo: any;
+    religion: any;
+    roleID: any;
+    socialSecurity: any;
+    stateName: any;
+    status:any;
+    takingDrug: any;
+    token: any;  
+    userToken:any;
+    userDetailID: any;
+    userID: any;
+    zipCode: any;
+    registrationStatus: any;
+    ticketPrice : any;
+    eventId: any;
+    
+}

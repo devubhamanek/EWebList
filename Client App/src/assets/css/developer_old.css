@@ -1,0 +1,598 @@
+.tagList .tagdiv {
+  padding: 5px 10px 5px;
+  float: left;
+  margin-right: 10px;
+  background-color: #fff;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.tagList {
+  float: left;
+  width: 100%;
+}
+
+  .tagList div a i {
+    margin-left: 25px;
+  }
+
+.tagdiv .divPriceList a i {
+  margin-left: 0px;
+}
+
+.tagList div a {
+  color: black;
+}
+
+.paymentIFrame {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  background: rgb(255, 255, 255);
+  width: 100%;
+  height: calc(100vh - 170px);
+  z-index: 99999;
+  display: block;
+}
+
+#paymentModal .modal-dialog {
+  width: 90%;
+}
+
+.matterDate {
+  float: left;
+  width: calc(50% - 10px);
+  margin-right: 20px;
+}
+
+  .matterDate:last-child {
+    margin-right: 0px;
+  }
+
+  .matterDate .input-group {
+    float: left;
+    width: 100%;
+    background-color: #fff;
+  }
+
+  .matterDate #matterTimepicker input {
+    height: 31px;
+    width: 100%;
+    padding: 0 10px;
+    color: #555;
+    border: 1px solid #ccc;
+  }
+
+.matterDate_offense {
+  width: calc(50% - 10px);
+}
+
+#offTimepicker input {
+  height: 31px;
+  width: 100%;
+  padding: 0 10px;
+  color: #555;
+  border: 1px solid #ccc;
+}
+
+#offTimepicker {
+  width: calc(50% - 11px);
+}
+
+.clsAmountBtn {
+  width: auto !important;
+  padding: 10px 25px !important;
+  margin-bottom: 10px !important;
+  float: left !important;
+  margin-right: 20px !important;
+}
+
+.intakeAmtPayable {
+  margin-right: 10px;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: notallowed;
+  pointer-events: none;
+}
+
+.btnAddOffense {
+  float: left;
+  width: 50px;
+  margin: 25px 0 0 5px;
+}
+
+  .btnAddOffense input {
+    padding: 5px 15px;
+    width: 60px;
+  }
+
+.errOffenseMsg {
+  color: red;
+  float: left;
+  width: 100%;
+  margin-top: 8px;
+}
+
+.tagInput {
+  width: 245px !important;
+  margin-right: 10px;
+}
+
+.btnAddTag {
+  padding: 5px 15px !important;
+  width: 60px
+}
+
+.ulAutoComplete {
+  width: 245px !important;
+  margin-right: 10px;
+}
+
+#couponCode {
+  width: 145px;
+}
+
+.btnApply {
+  width: 100px !important;
+}
+
+.btnPayment {
+  width: 37px !important;
+  height: 33PX !important;
+  border: none !important;
+  background: none !important;
+}
+
+.btnSubmit {
+  margin-right: 5px;
+}
+
+.errorMsg {
+  color: red;
+}
+
+
+.offensePriceList {
+  float: left;
+  max-width: 420px;
+  margin-bottom: 10px !important;
+}
+
+  .offensePriceList:first-child {
+    margin-top: 15px;
+  }
+
+  .offensePriceList .divPriceList {
+    float: left;
+  }
+
+    .offensePriceList .divPriceList:nth-child(1) {
+      width: 77%;
+    }
+
+    .offensePriceList .divPriceList:nth-child(2) {
+      width: 8%
+    }
+
+    .offensePriceList .divPriceList:nth-child(3) {
+      width: 7%
+    }
+
+    .offensePriceList .divPriceList:nth-child(4) {
+      width: 7%
+    }
+
+.autocomplete .offenseAutoComplete {
+  top: 33px !important;
+}
+
+.btnSubmitBlock {
+  padding-left: 7px;
+}
+
+.offensePriceList {
+  width: 100%;
+  float: left;
+}
+
+  .offensePriceList a {
+    float: right;
+  }
+
+.priceSetup {
+  overflow: visible !important;
+}
+
+.priceIcon {
+  margin-right: -20px;
+  padding: 9px 5px;
+}
+
+.addOffensePrice {
+  padding: 5px 15px !important;
+  width: 73px;
+}
+
+.common-search button {
+  width: 35px !important;
+}
+
+.uplod-file .document-upload {
+  float: left;
+  border: solid 1px #e2e2e2;
+  width: calc(50% - 10px);
+  margin: 0px 5px;
+  padding: 8px;
+  margin-bottom: 0;
+  background: #ffffff;
+  border-radius: 3px;
+}
+
+.uplod-file > .ng-star-inserted .action_icons {
+  float: right;
+  margin-right: 5px;
+  margin-top: -24px;
+}
+
+.uplod-file .document-upload-editor {
+  width: 50%;
+  float: left;
+  padding: 6px;
+}
+
+.mailToAutocomplete span {
+  width: 100%;
+}
+
+  .mailToAutocomplete span input {
+    width: 100%;
+  }
+
+
+.ui-overlaypanel.ui-widget.ui-widget-content {
+  top: 100px !important;
+  width: 50%;
+  border: 2px solid #c8c8c8;
+  box-shadow: -1px 1px 2px 2px #c8c8c8;
+  left: 0 !important;
+    right: 0 !important;
+    margin: 0 auto;
+}
+
+.task_detail_box.matterdetails
+{
+  margin-top:0;
+}
+
+.task_detail_box.matterdetails .task_box .task_detail_inner ul li label {
+  width: 20%;
+}
+
+.task_detail_box.matterdetails .task_box .task_detail_inner ul li {
+  border-bottom: none;
+  
+}
+
+.modal-popup .default-form .box-body .form-group{border-bottom: 1px solid #d5d5d5;margin-bottom: 10px;padding-bottom: 10px;}
+.modal-popup .default-form .box-body .form-group label{float: left;font-size: 14px;width:40% !important;float: left !important;}
+.modal-popup .default-form .box-body .form-group span{word-break: break-all;width: 60% !important;float: left !important; color:grey;}
+
+/* #myModalhere .modal-content{background-color: #f2f3f6 !important;}
+#myModalhere .modal-header{background-color:var(--primaryColor);}
+#myModalhere .modal-header h4{color:var(--thirdColor);}
+#myModalhere .close{color:var(--thirdColor) !important;opacity: 1 !important;} */
+
+.modal-popup .modal-content{background-color: #f2f3f6 !important;}
+.modal-popup .modal-header{background-color:var(--primaryColor);}
+.modal-popup .modal-header h4{color:var(--thirdColor);}
+.modal-popup .close{color:var(--thirdColor) !important;opacity: 1 !important;}
+
+
+.clickableRow {
+  cursor: pointer;
+}
+
+.seenNotification {
+  background: lightgreen !important;
+}
+
+
+
+
+
+
+
+.navbar-nav > .notifications-menu > .dropdown-menu > li .menu
+{
+  border-bottom:0.5px solid lightgray !important;
+}
+
+/* ===================== 7-3-2019 css start  =====================  */
+
+.navbar-nav>.notifications-menu>.dropdown-menu>li.footer>a{background-color:var(--primaryColor) !important;color:var(--thirdColor) !important;}
+.menu>li>a{border-bottom:1px solid #ccc !important;}
+.notifications-menu>.dropdown-menu>li.header{color:var(--primaryColor) !important;font-weight:600;}
+.ng-scrollbar-vertical{width:4px !important;}
+
+.navbar-custom-menu>.navbar-nav>li>.dropdown-menu li:last-child a{border:1px solid #ccc !important;}
+.main-footer{position:fixed;left:0;right:0;bottom:0;background-color:#d2d6de;}
+.content-wrapper .content{padding:0px 25px 50px !important;}
+
+
+/* ===================== 7-3-2019 css end  =====================  */
+
+
+.Details_form_cover{float:left;width:100%;padding:30px;}
+.content-wrapper .content-header{padding:15px 0px;}
+.quick_btn{float:left;width:100%;}
+.quick_form_inner {
+  float: left;
+  width: 100%;
+  margin-top: 20px;
+  max-width:500px;
+  padding:20px;
+  background-color:#fff;
+}
+  .quick_form_inner .detail-item {
+    float: left;
+    width: 100%;
+    background-color:#fff !important;
+  }
+    .quick_form_inner .detail-item .form-group {
+      background-color: #f2f3f6 !important;
+      padding: 10px !important;
+      float: left !important;
+      width: 100% !important;
+    }
+    .quick_form_inner .detail-item .form-group .detail-label {
+      width: 20% !important;
+    }
+    .quick_form_inner .detail-item .form-group .detail-text{width:80% !important;}
+    .quick_form_inner .detail-item .form-group .detail-text textarea{border:none !important;float:left;width:100%;}
+#editIntakeModal .modal-dialog .modal-body .default-form .form-group label{width:100%;display:block;}
+
+#editIntakeModal .default-form .form-group .select-wrapper:after {top: 36px !important;}
+#editIntakeModal .btnAddOffense {margin: 19px 0 0 5px !important;}
+
+#editIntakeModal .modal-dialog .modal-body .default-form .form-group .select-wrapper select {
+  width: 100%;
+  display: block;
+}
+
+#editIntakeModal .default-form {
+  min-height: inherit !important;
+}
+
+#editIntakeModal .modal-dialog .modal-body .default-form .radio-group label{width:auto !important;display:inline-block;}
+
+#editIntakeModal .select-dropdown .offenseselect {
+  width: 295px !important;
+}
+
+#editIntakeModal .btnPayment {
+  display: none !important;
+}
+
+#editCustomerModal .modal-dialog .modal-body .default-form .form-group label {width:100% !important;display:block !important;}
+#editCustomerModal .modal-dialog .modal-body .default-form .form-group input {width: 100% !important;display: block !important;}
+#editCustomerModal .pop_list_gender {
+  margin-left: 0px !important;
+  margin-top: 15px !important;
+}
+
+#editCustomerModal .form-group .pop_tag_input {
+  max-width: 245px !important;
+}
+#editCustomerModal .modal-dialog .modal-body .default-form .form-group input.primary_btn {
+  width: auto !important;
+  float: left;
+  margin-left: 10px !important;
+}
+#editCustomerModal .default-form .form-group .select-wrapper:after {
+  top: 35px !important;
+}
+#editCustomerModal .content-header {display: none !important;}
+
+.coman-modal-popup .modal-header {background-color: var(--primaryColor);}
+.coman-modal-popup .modal-header h4 {color: var(--thirdColor);}
+.coman-modal-popup .close {color: var(--thirdColor) !important;opacity: 1 !important;}
+
+/* =======================  Responsive media query start ========================= */
+
+.intake_box{
+  box-shadow: 0 0 10px 2px rgba(207,207,207,.3);
+  border-radius: 5px;
+  background: var(--thirdColor);
+  padding: 15px;float: left;width: 100%;
+  margin-bottom: 20px;
+}
+
+
+.intake_box li {
+  width: calc(33.3% - 13px);
+  float: left;
+  padding: 10px 15px;
+  border-bottom: 1px solid #e3e3e3;
+  margin-right: 20px;
+}
+.intake_box li:nth-child(3n){margin-right: 0px;}
+
+.intake_box li label{margin-bottom: 0px !important;}
+
+/* =======================  Responsive media query End ========================= */
+
+.email-grid.table tr th, .email-grid.table tr td
+{
+  padding:0;
+}
+
+#summary .content-header{padding: 0 !important}
+#summary .customer-info{padding: 15px 0px !important}
+#summary .content{padding: 0 !important}
+
+
+.create_task .default-form .form-group .select-wrapper:after
+{
+top: 5px !important;
+}
+
+.cdk-overlay-container{z-index: 111111111 !important;}
+
+.intake_table_respo{float: left;width: 100%;}
+.box-main-title{float: left;width: 100%;}
+.box_heading{float: left;}
+.box_heading h3{line-height: 30px;}
+
+.box-btn-cover{float:right;}
+.box-btn-cover .box-btn{display: inline-block;margin-left: 15px;}
+
+.pop_tag_input {max-width: 250px;margin-right: 10px;}
+.create_task{margin-bottom:20px;}
+.sms_tab .intake_box li{display: table;}
+.sms_tab .intake_box li label{width: 99px;display:table-cell;}
+
+
+/* =======================  today ========================= */
+#editIntakeModal .default-form .form-group .clsAmountBtn {
+  background-color: #e3e3e3 !important;
+  color: #000 !important;
+}
+
+
+#editIntakeModal .modal-dialog .modal-body .default-form .radio-group label {
+  background-color: #e3e3e3 !important;
+  padding: 10px !important;
+  margin-right: 10px;
+}
+
+#editIntakeModal .radio .cr .cr-icon {
+  color: #e3e3e3 !important;
+}
+
+#editIntakeModal .form-group .checkbox .cr .cr-icon {
+  color: #e3e3e3 !important;
+}
+
+#editIntakeModal .default-form .checkbox .fa-check::before {
+  color: #e3e3e3 !important;
+}
+
+#editIntakeModal .default-form .checkbox {
+  padding: 10px 10px 5px 10px !important;
+  background-color: #e3e3e3 !important;
+}
+
+.task_list .create_task .form-group textarea {
+  height: 50px !important;
+}
+.intake_tk_cover{margin-bottom:20px;}
+
+.add_btn {
+  width: 26px !important;
+  height: 26px !important;
+  position: relative;
+}
+
+  .add_btn i {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    left: 50%;
+  }
+
+
+  /* .intake_box li{width: 100%;} */
+
+
+  @media only screen and (max-width:991px) {
+  .box-main-title{float: left !important;width: 100% !important;}
+
+.create_task .w_20{width: calc(50% - 10px) !important;margin-right:10px;margin-bottom:15px !important;}
+.create_task .w_20:nth-child(2n){margin-right:0px;}
+.create_task .w_20 .select-wrapper{margin-left:0px !important;}
+
+.intake_box li{width: calc(50% - 10px);}
+.intake_box li:nth-child(3n){margin-right:0px}
+.intake_box li:nth-child(1n){margin-right:10px !important;}
+
+}
+
+@media only screen and (max-width:767px) {
+.intake_box li{width: 100% !important;margin:0px !important;}
+}
+
+@media only screen and (max-width:479px) {
+  .default_modal .modal-dialog {
+    width: 94% !important;
+  }
+  #editIntakeModal .select-dropdown .offenseselect{width:100% !important;}
+  #editIntakeModal .modal-dialog .modal-body .default-form .radio-group label{width:100% !important;margin-bottom:10px;}
+  .create_task .w_20{width: 100% !important;margin-right:0px !important;}
+}
+
+@media only screen and (max-width:767px) {
+  .default_modal .modal-dialog {
+    width: 96% !important;
+  }
+
+  .quick_form_inner .detail-item .form-group {
+    background-color: transparent !important;
+    padding: 0px !important;
+  }
+    .quick_form_inner .detail-item .form-group .detail-label {
+      width: 100% !important;
+    }
+    .quick_form_inner .detail-item .form-group .detail-text {
+      width: 100% !important;
+      background-color: #f2f3f6 !important;
+      padding: 10px !important;
+    }
+  .quick_form_inner{padding:10px !important;}
+
+}
+
+@media only screen and (min-width:1368px) {
+  .addOffensePrice {
+    margin-top: 25px !important;
+  }
+}
+
+.padding-left-0
+{
+     padding-left: 0 !important;
+    padding-top: 0 !important;
+}
+
+
+.min-height-0
+{
+  min-height:0 !important;
+}
+.mater_datatable #activity-list_wrapper .table td:last-child{text-align: left !important;}
+.box-btn a i{color: var(--primaryColor);}
+#intake-table_wrapper .pagination .previous{display: none;}
+#intake-table_wrapper .pagination .next{display: none;}
+
+
+.intake-notes
+{
+    float: right;
+    font-size: 25px;
+    color: black;
+    padding: 5px 5px 0 0;
+    cursor: pointer;
+}
+
+.margin-right-10
+{
+  margin-right:10px;
+}
+
+#mainComposeMailContent .default-form button
+{
+position: relative;
+}
+
